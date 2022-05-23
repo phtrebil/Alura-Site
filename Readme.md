@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido no curso de HTML e CSS da Alura. Trata-se de um site de uma Barbearia Fictícia. Ainda tenho que deixar todas as páginas responsivas a tela de celular (por enquanto só fiz isso na página inicial).
